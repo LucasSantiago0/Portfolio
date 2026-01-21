@@ -135,13 +135,13 @@ document.addEventListener('DOMContentLoaded', function() {
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
     },
     proj3: { 
-      img: 'python.png', 
+      img: 'Python.png', 
       title: 'Automações em Python', 
       desc: 'Redução de trabalhos manuais realizando automações/scripts WEB.',
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
     },
     proj4: { 
-      img: 'automor.png', 
+      img: 'Automor.png', 
       title: 'Automações em Python', 
       desc: 'É possível fazer a automação Local ou Web.',
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
