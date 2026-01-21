@@ -143,13 +143,19 @@ document.addEventListener('DOMContentLoaded', function() {
     proj4: { 
       img: 'automor.png', 
       title: 'Automações em Python', 
-      desc: 'Redução de trabalhos manuais realizando automações/scripts WEB.',
+      desc: 'É possível fazer a automação Local ou Web.',
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
     },
     proj5: { 
       img: 'Sites.png', 
       title: 'Sites Landing Page', 
       desc: 'Sites personalizados, utilizando HTML, CSS, JS e APIs',
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
+    },
+    proj6: { 
+      img: 'Sistema.png', 
+      title: 'Sistemas/Aplicativos com o Power Plataform', 
+      desc: 'Sistemas e aplicativos personalizado, com integrações com sistemas internos',
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
     }
 
