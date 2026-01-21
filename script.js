@@ -145,6 +145,12 @@ document.addEventListener('DOMContentLoaded', function() {
       title: 'Automações em Python', 
       desc: 'Redução de trabalhos manuais realizando automações/scripts WEB.',
       link: 'https://www.linkedin.com/in/lsantiagoc/' 
+    },
+    proj5: { 
+      img: 'Sites.png', 
+      title: 'Sites Landing Page', 
+      desc: 'Sites personalizados, utilizando HTML, CSS, JS e APIs',
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
     }
 
     // Adicione mais projetos aqui conforme necessário
