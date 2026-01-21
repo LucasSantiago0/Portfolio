@@ -123,23 +123,36 @@ document.addEventListener('DOMContentLoaded', function() {
   // MODAL PROJETOS
   const projetos = {
     proj1: { 
-      img: 'images/dashboard-powerbi.jpg', 
-      title: 'Dashboard Gerencial Power BI', 
-      desc: 'KPIs bancários em tempo real com integração SQL + Power Automate. +30% velocidade decisões executivas.', 
-      link: 'https://github.com/santiago/dashboard-powerbi' 
+      img: 'Power BI.png', 
+      title: 'Dashboards Gerenciais e Operacionais', 
+      desc: 'KPIs atualizados em tempo real com integração ao SQL + Power Automate.', 
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
     },
     proj2: { 
-      img: 'images/powerapps-app.jpg', 
-      title: 'Power Apps Workflow', 
-      desc: 'Sistema aprovações substituindo planilhas. Integra SharePoint + sistemas internos.', 
-      link: 'https://github.com/santiago/powerapps-workflow' 
+      img: 'PowerApps.jpg', 
+      title: 'Power Apps - Aplicativos/Sistemas', 
+      desc: 'Workflows, Portais, Onboarding de Colaboradores e etc...  ', 
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
     },
     proj3: { 
-      img: 'images/python-automacao.jpg', 
-      title: 'Automação Python ETL', 
-      desc: 'Processamento relatórios massivos. Redução 80% tempo (20h → 4h/mês).', 
-      link: 'https://github.com/santiago/python-etl' 
+      img: 'python.png', 
+      title: 'Automações em Python', 
+      desc: 'Redução de trabalhos manuais realizando automações/scripts WEB.',
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
+    },
+    proj4: { 
+      img: 'automor.png', 
+      title: 'Automações em Python', 
+      desc: 'Redução de trabalhos manuais realizando automações/scripts WEB.',
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
+    },
+    proj5: { 
+      img: 'Sites.png', 
+      title: 'Sites Landing Page', 
+      desc: 'Sites personalizados, utilizando HTML, CSS, JS e APIs',
+      link: 'https://www.linkedin.com/in/lsantiagoc/' 
     }
+
     // Adicione mais projetos aqui conforme necessário
   };
   
